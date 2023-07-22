@@ -8,4 +8,4 @@
     b) TF-IDF
     c) Avearge Word2Vec
     d) Word2Vec with TF-IDF
-4. The project can be taken 1 step ahead. After the NLP was performed, we can build a classifier from the given dataset and the performace of the the model can be tested with "score" column.
+4. After the NLP was performed, we build a classifier from the given dataset and the performace of the the model is tested.
