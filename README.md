@@ -1,5 +1,4 @@
 # NLP-of-Amazon-Reviews
-This repository contains which performs NLP and EDA of Amazon reviews
 
 1. I have utilised sqlite format of dataste for NLP and EDA. The dataset can be dowloaded from this link:
    https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
